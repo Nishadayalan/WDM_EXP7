@@ -1,7 +1,7 @@
 ### EX7 Implementation of Link Analysis using HITS Algorithm
 ### DATE: 22/10/2025
-### NAME:NISHA D
-### REGISTER NUMBER:212223230143
+### NAME: NISHA D
+### REGISTER NUMBER: 212223230143
 ### AIM: To implement Link Analysis using HITS Algorithm in Python.
 ### Description:
 <div align = "justify">
